@@ -1,4 +1,4 @@
-Hello! My name is Shane Tobin and I worked on the MilliQan experiment under Professor Stuart. To document my work for the next person to progress this project, I have created this repository. Below I will explain how to use the code 
+Hello! My name is Shane Tobin and I worked on the MilliQan experiment under Professor Stuart in 2025. To document my work in the hopes it helps progress this project, I have created this repository. Below I will explain how to use the scripts. In sections where a future user may need to modify the script to run the code from their own cmsX account. If you have any questions, feel free to reach out and I'd be happy to chat about this project.
 
 # Pipeline
 
@@ -139,6 +139,8 @@ The pipeline retrieves raw files using `scp` from:
 ```text
 shanetobin@cms1.physics.ucsb.edu:/cms1r0/stuart/DRS/Run<run_number>/
 ```
+
+[Substitute your account username in the code] Which I anticipate will be substituted 
 
 The expected raw files are:
 
